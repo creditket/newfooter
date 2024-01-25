@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.11](https://github.com/hbstack/footer/compare/v0.2.10...v0.2.11) (2024-01-25)
+
+
+### Bug Fixes 🐞
+
+* **deps:** update dependency stylelint-scss to v6.1.0 ([c9e315f](https://github.com/hbstack/footer/commit/c9e315f553d0883b1f75e5df8b0cad4672038cb7))
+
 ## [0.2.10](https://github.com/hbstack/footer/compare/v0.2.9...v0.2.10) (2023-12-23)
 
 
